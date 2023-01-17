@@ -1,0 +1,13 @@
+
+.myalert{
+    width:83.3%;
+    margin: auto auto;
+    padding-left:0;
+}
+
+@media(min-width: 992px){
+    .myalert{
+        width:66.67%;
+    }
+    }
+
